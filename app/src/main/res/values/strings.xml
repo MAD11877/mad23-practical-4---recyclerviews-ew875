@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">madpracticalWeek3</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="editText">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ornare faucibus convallis. Suspendisse molestie eros in facilisis fringilla.
+    </string>
+    <string name="todo">TODO</string>
+    <string name="btnl1">Follow</string>
+    <string name="btnl2">Message</string>
+    <string name="app_title">MADPractical</string>
+    <string name="group1">Group 1</string>
+    <string name="group2">Group 2</string>
+</resources>
