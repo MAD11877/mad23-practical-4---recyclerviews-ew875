@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/mad23-practical-4---recyclerviews-ew875.iml" filepath="$PROJECT_DIR$/.idea/mad23-practical-4---recyclerviews-ew875.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MADExercise.iml" filepath="$PROJECT_DIR$/.idea/modules/MADExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercise4/MADExercise.Exercise4.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercise4/MADExercise.Exercise4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MADExercise.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MADExercise.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MADExercise.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MADExercise.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MADExercise.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MADExercise.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MADExercise.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MADExercise.app.unitTest.iml" />
     </modules>
   </component>
 </project>

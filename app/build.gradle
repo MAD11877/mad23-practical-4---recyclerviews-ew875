@@ -1,7 +1,6 @@
 plugins {
     id 'com.android.application'
 }
-
 android {
     namespace 'sg.edu.np.mad.madpractical'
     compileSdk 33
